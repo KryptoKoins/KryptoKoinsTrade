@@ -11,9 +11,11 @@ KryptoKoinsTrade is a crypto currency exchange.
 For more information, as well as an immediately useable, binary version of the KryptoKoinsTrade, see https://www.kryptokoins.trade/.
 
 License
-kryptokoins is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
+
+KryptoKoinsTrade is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
 
 Development process
+
 Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
 
 If it is a simple/trivial/non-controversial change, then one of the kryptokoins developers simply pulls it.
@@ -25,4 +27,5 @@ The patch will be accepted if there is broad consensus that it is a good thing. 
 The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are created regularly to indicate new official, stable release versions of KryptoKoinsTrade.
 
 Testing
+
 Testing and code review is the bottleneck for development; we get more pull requests than we can review and test. Please be patient and help out, and remember this is a security-critical project where any mistake might cost people lots of money.
