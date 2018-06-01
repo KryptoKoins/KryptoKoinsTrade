@@ -22,7 +22,7 @@ Development process
 -----------------------------------------------------------------------------------------------------------------------------------
 Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the kryptokoins developers simply pulls it.
+If it is a simple/trivial/non-controversial change, then one of the KryptoKoinsTrade developers simply pulls it.
 
 If it is a more complicated or potentially controversial change, then the patch submitter will be asked to start a discussion with the devs and community.
 
