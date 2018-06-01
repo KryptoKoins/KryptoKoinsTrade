@@ -15,7 +15,7 @@ For more information, as well as an immediately useable, binary version of the K
 
 License
 -----------------------------------------------------------------------------------------------------------------------------------
-KryptoKoinsTrade is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
+KryptoKoinsTrade is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT or https://kryptokoinstrade.mit-license.org/.
 
 
 Development process
