@@ -1,4 +1,4 @@
-An open-source crypto currency exchange
+An open-source tokenized crypto currency exchange
 ===================================================================================================================================
 
 https://www.kryptokoins.trade/
@@ -8,7 +8,7 @@ Copyright (c) 2018-2019 KryptoKoins
 
 What is KryptoKoinsTrade?
 -----------------------------------------------------------------------------------------------------------------------------------
-KryptoKoinsTrade is a crypto currency exchange.
+KryptoKoinsTrade is a tokenized crypto currency to crypto currency exchange.
 
 For more information, as well as an immediately useable, binary version of the KryptoKoinsTrade, see https://www.kryptokoins.trade/.
 
