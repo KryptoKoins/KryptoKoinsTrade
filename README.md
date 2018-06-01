@@ -8,7 +8,7 @@ What is KryptoKoinsTrade?
 
 KryptoKoinsTrade is a crypto currency exchange.
 
-For more information, as well as an immediately useable, binary version of the Bitmxittz client sofware, see https://www.kryptokoins.trade/.
+For more information, as well as an immediately useable, binary version of the KryptoKoinsTrade, see https://www.kryptokoins.trade/.
 
 License
 kryptokoins is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
