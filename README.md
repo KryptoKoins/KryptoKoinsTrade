@@ -3,7 +3,7 @@ An open-source tokenized crypto currency exchange
 
 https://www.kryptokoins.trade/
 
-Copyright (c) 2018-2019 KryptoKoins
+Copyright (c) 2018-2019 KryptoKoinsTrade
 
 
 What is KryptoKoinsTrade?
