@@ -4,8 +4,9 @@ https://www.kryptokoins.trade/
 
 Copyright (c) 2018-2019 KryptoKoins
 
-What is kryptokoins?
-kryptokoins is a crypto currency exchange.
+What is kryptokoinsTrade?
+
+kryptokoinsTrade is a crypto currency exchange.
 
 For more information, as well as an immediately useable, binary version of the Bitmxittz client sofware, see https://www.kryptokoins.trade/.
 
@@ -21,7 +22,7 @@ If it is a more complicated or potentially controversial change, then the patch 
 
 The patch will be accepted if there is broad consensus that it is a good thing. Developers should expect to rework and resubmit patches if the code doesn't match the project's coding conventions (see doc/coding.txt) or are controversial.
 
-The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are created regularly to indicate new official, stable release versions of kryptokoins.
+The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are created regularly to indicate new official, stable release versions of kryptokoinsTrade.
 
 Testing
 Testing and code review is the bottleneck for development; we get more pull requests than we can review and test. Please be patient and help out, and remember this is a security-critical project where any mistake might cost people lots of money.
