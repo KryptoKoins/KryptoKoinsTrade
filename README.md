@@ -1,7 +1,8 @@
 An open-source crypto currency exchange
+
 https://www.kryptokoins.trade/
 
-Copyright (c) 2018-2019 KryptoKoins Developers
+Copyright (c) 2018-2019 KryptoKoins
 
 What is kryptokoins?
 kryptokoins is a crypto currency exchange.
